@@ -8,7 +8,7 @@ This is not a mirror.
 
 | Name | Date | Tags |
 | - | - | - |
-| [Why Hedonism Fails](mind/why_hedonism_fails.md) | Created: 2023-11-01 | Mind |
+| [Scalable Happiness - Or Why Hedonism Fails](mind/scalable_happiness.md) | Created: 2023-11-01 | Mind |
 
 ## Toolset
 
