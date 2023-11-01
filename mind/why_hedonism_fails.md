@@ -1,5 +1,5 @@
-## Scalable Happiness
-### *Or why hedonism fails*
+### Scalable Happiness
+#### *Or why hedonism fails*
 
 <br/><br/>
 
