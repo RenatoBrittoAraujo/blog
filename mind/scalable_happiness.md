@@ -1,7 +1,6 @@
 ### Scalable Happiness
 #### *Or why hedonism fails*
-
-<br/><br/>
+___
 
 Over the course of your life, you have noticed that some activities just bring more happiness than others. This is great, it means you can choose many paths for being happy. 
 
