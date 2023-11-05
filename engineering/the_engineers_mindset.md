@@ -15,31 +15,31 @@ ___
 
 Main character of this story is the engineer.
 
-Engineer is well known for ingenuity
-Engineer is known for his capability of making a solution where nobody else can spot it
-Engineer is known for solving a problem permanently
-Engineer is known to connect a breath of knowledge into a unique idea
-Engineer is a hacker
+- Engineer is well known for ingenuity
+- Engineer is known for his capability of making a solution where nobody else can spot it
+- Engineer is known for solving a problem permanently
+- Engineer is known to connect a breath of knowledge into a unique idea
+- Engineer is a hacker
 
 ## Psychology of the engineer
 
-The engineer expresses creativity through the laws of nature
-The engineer births ideas into reality
-The engineer likes to build stuff
-The engineer is good at editing, creating and destroying as he pleases
-The engineer takes great joy from solving a problem
-The engineer enjoys carrying an idea from cradle to production
-The engineer is resourceable at finding experimental or documented information
-The engineer obsess about efficiency
-The engineer takes joy into noticing something is possible, when at first it looked crazy
-The engineer likes to understand systems
-The engineer is able to follow big logic chains
-The engineer is naturally lazy, and wants to facilitate lazyness
-The engineer writes requisites naturally
-The engineer divides work naturally
-The engineer does not shy away from the hard work
-The engineer knows he's doing a good job because his will starts to believe it's becoming impossible, but intuition says it is possible
-The engineer doesn't like down time
+- The engineer expresses creativity through the laws of nature
+- The engineer births ideas into reality
+- The engineer likes to build stuff
+- The engineer is good at editing, creating and destroying as he pleases
+- The engineer takes great joy from solving a problem
+- The engineer enjoys carrying an idea from cradle to production
+- The engineer is resourceable at finding experimental or documented information
+- The engineer obsess about efficiency
+- The engineer takes joy into noticing something is possible, when at first it looked crazy
+- The engineer likes to understand systems
+- The engineer is able to follow big logic chains
+- The engineer is naturally lazy, and wants to facilitate lazyness
+- The engineer writes requisites naturally
+- The engineer divides work naturally
+- The engineer does not shy away from the hard work
+- The engineer knows he's doing a good job because his will starts to believe it's becoming impossible, but intuition says it is possible
+- The engineer doesn't like down time
 
 ## What is NOT the engineer
 
