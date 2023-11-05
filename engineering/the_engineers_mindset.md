@@ -45,8 +45,8 @@ The engineer doesn't like down time
 
 The engineer should be capable of acting as a scientist, but he does not specialize on that.
 
-- a scientist figures stuff out
-- the engineer doesn't think all possibilities have been exausted yet
+- a scientist figures stuff out - expands their body of knowledge without getting bogged down in practical applications
+- the engineer doesn't think all possibilities have been exausted yet using the knowledge that already exists
 
 The engineer should be capable of acting as a businessman, but he does not specialize on that.
 
@@ -142,7 +142,65 @@ The engineer can interface with both scientist and businessman, turning what is 
 - What values the balance sheet would tell one month from now?
 - What values the balance sheet would tell one year from now?
 
+#### Projects - A tree of problems
+
+An actionable problem is a problem that can be solved over time by application of human effort now.
+
+Each project can be depicted as a tree of steps. Each project solves one problem. There may be multiple projects that solve the same problem, but the tree of steps are different.
+
+In the tree of problems, the leaves are actionable problems. Any remaining elements of the tree are not actionable due to the dependency on solution to actionable problem(s).
+
+#### Engineer's Time 
+
+Engineer's time can be categorized into:
+
+- Standby mode - doing research, learning better ways of doing something, finding canned solutions to problems, integrating new knoledge, seeking new projects, exploring new ground
+
+- Active mode - solving a defined and specific tree of problems to accomplish a goal, actively working on a leaf of this tree until it's subproblem is eliminated
+
+The time of an engineer converts and compounds into their own growth:
+
+- An engineer in standby mode only grows horizontally - can solve a whole new world of problems, but for each new problem his solutions are slow and of poor quality 
+
+- An engineer in active mode only grows vertically - becomes better at building one specific thing
+
+The effective engineer chooses strategically where to spend his human capital (or time) in order to accumulate the necessary knowledge to accomplish his projects of interest.
+
+Each unique project requires a set of depth and breath of knowledge to solve its problem tree, therefore matching the engineer to the project requires effort in the form of active time and standby time.  
+
+#### Team of Engineers
+
+A big project could be accomplished faster (or just has more chance of being accomplished at all) if multiple engineers are involved.
+
+For the talented engineer, their objective is to do everything alone. But this is not always possible or prefereable.
+
+##### Engineer communication
+
+Engineers are known for their dry, spartan, direct and simple communication.
+
+The engineer composes their sentence with the simplest words possible to join all technical jargon it needs.
+
+*a funny quirk of engineer communication is ocasional absence of adjectives, such as in this sentence*
+
+Being in the trade of knowledge, the engineer tries to condense only crucial information in a natural language phrase, opting to use precise numbers whenever possible.
+
+##### Engineers Hierarchy
+
+When multiple engineer's work together, an organic hierarchy emerges.
+
+Through verbal exchange, engineers place themselves and others along a value order for each subtree of problems in a project.
+
+In a well balanced project, each engineer ends up owning a subtree of problems. One engineer owns the entire tree. The subtrees may overlap ownership. 
+
+Each engineer works in their own node(s) of the tree, giving preference on a specific subproblem to the lowest ranking engineer within the hierarchy.
+
+For a engineer which has other engineers within their own subtree, the solution to that subtree ceases from being a technical problem and becomes a people problem.
+
+The higher raking engineer then helps the lower ranking engineer with informational inputs, and reminds him of the expected output of the subtree.
+
 # REFERENCES
 
 - [Santo Dumont's Biography](https://archive.org/details/OQueEuVi.OQueNosVeremos.) - The guy who invented the airplane
+
+- [Wernher Von Braun's The Mars Project](https://gateway.ipfs.io/ipfs/bafykbzaceagdc55zkc4cwsr4kiceynqazhmdugjvklwisk7xwkhmtutolk64e?filename=Wernher%20von%20Braun%20-%20The%20Mars%20Project.pdf) - The guy who put man on the moon
 
